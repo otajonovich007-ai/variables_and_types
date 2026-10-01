@@ -7,3 +7,8 @@
 # Quyidagi ifodani hisoblang: 'https://github.com/xakimovallamurod/variables_and_types/blob/main/README.md#begin08';
 
 # Natijani chop eting.
+a = 5
+b = 4
+c = 8
+k = a*b/c
+print(k)
